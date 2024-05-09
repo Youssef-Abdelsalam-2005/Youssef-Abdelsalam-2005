@@ -4,7 +4,7 @@ Passionate about:
 - 👥🌍 [AI for humanity with biotech and accessibility]
 - 👾⚛️ [AI in quantum computing]
   
-🔭 I’m currently working on a portfolio
+🔭 I’m currently working on a portfolio<br>
 🌱 I’m currently learning Next.js
 
 ## 🌐 Socials:
