@@ -1,6 +1,11 @@
 # 💫 About Me:
-Passionate about: 🔒🤖 [AI in security, security in AI with red teaming and blockchain authentication], 👥🌍 [AI for humanity with biotech and accessibility], 👾⚛️ [AI in quantum computing]
-🔭 I’m currently working on a portfolio<br>👯 I’m looking to collaborate on startups and SaaS's<br>🌱 I’m currently learning Next.js
+Passionate about:
+  🔒🤖 [AI in security, security in AI with red teaming and blockchain authentication]
+  👥🌍 [AI for humanity with biotech and accessibility]
+  👾⚛️ [AI in quantum computing]
+  
+🔭 I’m currently working on a portfolio
+🌱 I’m currently learning Next.js
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yxa) 
