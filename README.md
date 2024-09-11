@@ -2,7 +2,7 @@
 Passionate about:
 - 🔒🤖 [AI in security, security in AI with red teaming and blockchain authentication]
 - 👥🌍 [AI for humanity with biotech and accessibility]
-- 👾⚛️ [AI in quantum computing]
+- 👾⚛️ [Quantum computing]
   
 🔭 I’m currently working on a portfolio<br>
 🌱 I’m currently learning Next.js
