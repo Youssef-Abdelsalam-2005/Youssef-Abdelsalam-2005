@@ -4,9 +4,8 @@ Passionate about:
 - 👥🌍 [AI for humanity with biotech and accessibility]
 - 👾⚛️ [Quantum computing]
   
-🔭 I’m currently working on a portfolio<br>
-🌱 I’m currently learning Next.js
-
+🔭 I’m currently working on ![VerifAI](https://isitreal-ten.vercel.app)<br>
+🌱 I’m currently learning the basics of quantum computing
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yxa) 
 
